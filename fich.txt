@@ -1,0 +1,7 @@
+
+we had studied some types of data structures and sorting algorithms..
+but we had not exposed types like non-linear data structures, noting the "graph"..
+also sort types like "merge sort" and "quick sort"...
+I think the reason we weren't exposed to it, is because we hadn't studied recursion yet... 
+i mean, i think dealing with these sorting algorithms and data structures..
+ will be easier after studying recursion :)
